@@ -2,16 +2,16 @@
 #include<math.h>
 /*
 
-34) O Índice de Massa Corpórea (IMC) é um valor calculado baseado na altura e no 
-peso de uma pessoa. De acordo com o valor do IMC, podemos classificar o 
-indivíduo dentro de certas faixas.
- - abaixo de 18.5: Abaixo do peso
- - entre 18.5 e 25: Peso ideal
- - entre 25 e 30: Sobrepeso
- - entre 30 e 40: Obesidade
- - acima de 40: Obseidade mórbida
-Obs: O IMC é calculado pela expressão peso/altura² (peso dividido pelo quadrado 
-da altura)
+The Body Mass Index (BMI) is a calculated value based on height and
+a person's weight. According to the BMI value, we can classify the
+individual within certain ranges.
+ - below 18.5: Underweight
+ - between 18.5 and 25: Ideal weight
+ - between 25 and 30: Overweight
+ - between 30 and 40: Obesity
+ - over 40: morbid obesity
+Note: BMI is calculated by the expression weight/height² (weight divided by the square
+height)
 
 */
 
